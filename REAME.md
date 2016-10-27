@@ -3,10 +3,15 @@
 Technology Stack:
 
 NodeJS-ExpressJS
+
 MySQL
+
 BootStrap
+
 npm-sentiment
+
 npm-twit
+
 HighCharts
 
 
